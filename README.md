@@ -6,5 +6,5 @@ Each path has a variety of enemies with each enemy having their own set of funct
 to the end of each path to defeat a boss enemy. Once the player defeats all 3 boss enemies, the player wins.
 
 # Credits
-Thanks to Jordyn Williams for the signs (found within the game)
+Thanks to Jordyn Williams for the signs (found within the game)<br>
 Thanks to Michael Sleeman for the particles and the main map layout (found within the game)
